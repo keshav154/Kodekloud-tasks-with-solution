@@ -1,0 +1,6 @@
+ 
+Task 2
+To replace a word in a file with other word
+Solution:
+sed -i 's/OLDWORD/NEWWORD/g' <filename>
+

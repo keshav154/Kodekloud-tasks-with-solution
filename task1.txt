@@ -1,0 +1,6 @@
+ 
+Task 1 
+To create a user in linux machine without his home directory
+Solution:
+useradd --no-create-home <username>
+
