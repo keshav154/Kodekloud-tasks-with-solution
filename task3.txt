@@ -1,0 +1,6 @@
+
+Task 3
+Add a user with some expiry date
+Solution:
+useradd -e <yyyy-mm-dd> <username>
+
